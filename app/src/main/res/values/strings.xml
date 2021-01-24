@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Construction_Sevices</string>
     <string name="todo">TODO</string>
+    <string name="enter_service_needed_here">Enter service needed here..</string>
+    <string name="need_services">Need Services</string>
+    <string name="submit">submit</string>
 </resources>
