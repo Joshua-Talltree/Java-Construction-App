@@ -3,6 +3,7 @@ package com.example.construction_sevices;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -31,9 +32,12 @@ public class MainActivity extends AppCompatActivity {
 
             return false;
         } else {
-
+            return true;
         }
-        return true;
+
+    }
+
+    public void submit(View view) {
     }
 }
 
